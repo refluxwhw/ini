@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# qt
+*.pro.user*
+Makefile*
+tmp
+*.pdb
+*.ilk
+bin
